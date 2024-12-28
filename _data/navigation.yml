@@ -7,7 +7,7 @@ main:
     url: /experience/
 
   - title: "Projects"
-    url: /year-archive/
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
