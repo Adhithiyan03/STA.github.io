@@ -1,10 +1,11 @@
 ---
-title: "Scene UNderstanding for Traffic Scene"
+title: "Scene Understanding for Traffic Scene"
 excerpt: "Tesla Autopliot DashBoard Simulation <br/><img src='{{ base_path }}/images/Video_1_0.png'>"
 collection: portfolio
 ---
 
-This project focuses on teaching robots to perform insertion tasks through imitation learning techniques. By using inverse reinforcement learning, we enable robots to learn from human demonstrations and replicate precise insertion movements.
+Here, We try to replicate the Tesla Autopilot Dashboard from custom data recorded on the cameraw of a Tesla Car. We then use different Deep Learning and LLM models to recreate the environemnt perceived by the cameras in calibration such as the object detection, segmentation, depth estimation, object orientation, human pose estimation, etc and render it on the dashboard. We use blender to render the scene using appropriate textures and materials and scaling the scene to the correct size.
+
 
 {% include base_path %}
 
