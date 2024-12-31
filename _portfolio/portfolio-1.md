@@ -1,6 +1,6 @@
 ---
 title: "Imitiation Learning for Robot Insertion"
-excerpt: "Robot Isertion Using Inverse Reinforcement Learning 1<br/><img src='/images/Video_1_0.png'>"
+excerpt: "Robot Isertion Using Inverse Reinforcement Learning 1<br/><img src='{{ base_path }}/images/Video_1_0.png'>"
 collection: portfolio
 ---
 
@@ -9,19 +9,14 @@ This project focuses on teaching robots to perform insertion tasks through imita
 {% include base_path %}
 
 <div style="text-align: center;">
-  <img src="{{ base_path }}/images/Video_1_0.png" alt="Robot Insertion Demo">
-</div>
-
-
-<div style="text-align: center;">
   <video controls width="500">
-    <source src="/images/Video_1_1.mp4" type="video/mp4">
+    <source src="{{ base_path }}/images/Video_1_1.mp4" type="video/mp4">
   </video>
 </div>
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/images/Video_1_2.mp4" type="video/quicktime">
+    <source src="{{ base_path }}/images/Video_1_2.mp4" type="video/quicktime">
   </video>
 </div>
 
