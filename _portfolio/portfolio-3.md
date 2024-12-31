@@ -1,19 +1,17 @@
 ---
-title: "IEEE Singapore Autonomous Underwater Vehicle Competition"
-excerpt: "Autonomous Underwater Vehicle with Custom 5DOF Manipulator <br/><img src='{{ base_path }}/images/image_2_0.png'>"
+title: "DRDO(Indian Defence) Inter IIT Tech Meet'23"
+excerpt: "<br/><img src='{{ base_path }}/images/image_3_0.png'>"
 collection: portfolio
 ---
 
+An unmanned aerial vehicle equipped with GPS and RGBD camera is supposed to survey
+a given terrain and guide an unmanned ground vehicle with no sensors. This requires the
+team to map the mountain road in the worlds using a UAV and guide a UGV through the
+area, navigating across various turns, altitudes, and depth of terrain under various
+constraints
 
 
 {% include base_path %}
 <div style="text-align: center;">
-  <img src="{{ base_path }}/images/image_2_1.png" width="500">
-</div>
-
-
-<div style="text-align: center;">
-  <video controls width="500">
-    <source src="{{ base_path }}/images/video_2_1.mp4" type="video/mp4">
-  </video>
+  <img src="{{ base_path }}/images/image_3_1.png" width="500">
 </div>
