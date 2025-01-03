@@ -14,7 +14,7 @@ collection: portfolio
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/images/Video_1_2.mp4" type="video/quicktime">
+    <source src="/images/Video_1_2.mov" type="video/quicktime">
     Your browser does not support the video tag.
   </video>
 </div>
