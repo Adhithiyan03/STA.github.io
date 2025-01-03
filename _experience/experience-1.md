@@ -3,7 +3,7 @@ title: "Skill Learning for Manipulator using Residual Policies and PINNS"
 excerpt: "<br/><img src='/images/500x300.png'>"
 collection: experience
 type: "Jan 2023 - Dec 2024"
-permalink: /research/quantum-annealing
+permalink: /research/elpis
 venue: "ELPIS Lab"
 date: Jan 2024 - Dec 2024
 location: "Worcester Polytechnic Institute, USA"

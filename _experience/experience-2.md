@@ -3,7 +3,7 @@ title: "Causal MDP for Reminiscence Therapy using LLMs for Pepper Robot (RA-L 20
 excerpt: "<br/><img src='/images/500x300.png'>"
 collection: experience
 type: "Aug 2024 - Present"
-permalink: /research/quantum-annealing
+permalink: /research/robocare
 venue: "RoboCare Lab"
 date: Aug 2024 - Present
 location: "Worcester Polytechnic Institute, USA"
