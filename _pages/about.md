@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Masters(Thesis) student in Robotics at Worcester Polytechnic Institute. I work in the [ELPIS Lab](https://epureanu.engin.umich.edu/).I obtained my B.Tech. in Mechanical Engineering from the Indian Institute of Technology Indore (IITI). In my free time, I love playing (table tennis, soccer). I also like watching anime and playing violin an keyboard in my free time.
+I am a Masters(Thesis) student in Robotics at Worcester Polytechnic Institute. I work in the [ELPIS Lab]().I obtained my B.Tech. in Mechanical Engineering from the Indian Institute of Technology Indore (IITI). In my free time, I love playing (table tennis, soccer). I also like watching anime and playing violin an keyboard in my free time.
 
 Research Goals
 ===
