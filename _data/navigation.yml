@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "Experience & Research"
-    url: /experience/
+    url: /talks/
 
   - title: "Projects"
     url: /portfolio/
