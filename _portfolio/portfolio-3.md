@@ -1,6 +1,6 @@
 ---
 title: "DRDO(Indian Defence) Inter IIT Tech Meet'23"
-excerpt: "<br/><img src='{{ base_path }}/images/image_3_0.png'>"
+excerpt: "<br/><img src='images\image_3_0.jpg'>"
 collection: portfolio
 ---
 

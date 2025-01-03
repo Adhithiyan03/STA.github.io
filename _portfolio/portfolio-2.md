@@ -1,6 +1,6 @@
 ---
 title: "IEEE Singapore Autonomous Underwater Vehicle Competition"
-excerpt: "Autonomous Underwater Vehicle with Custom 5DOF Manipulator <br/><img src='{{ base_path }}/images/image_2_0.png'>"
+excerpt: "Autonomous Underwater Vehicle with Custom 5DOF Manipulator <br/><img src='{{ base_path }}/images/image_2_0.jpg'>"
 collection: portfolio
 ---
 This project involves developing an autonomous underwater vehicle (AUV) for the IEEE Singapore AUV Competition. The system integrates advanced object detection, collision avoidance, and navigation capabilities.
