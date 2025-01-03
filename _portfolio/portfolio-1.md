@@ -16,12 +16,9 @@ This project focuses on teaching robots to perform insertion tasks through imita
 
 <div style="text-align: center;">
   <video controls width="500">
-<<<<<<< HEAD
     <source src="/images/Video_1_2.mov" type="video/quicktime">
     Your browser does not support the video tag.
-=======
     <source src="{{ base_path }}/images/Video_1_2.mov" type="video/quicktime">
->>>>>>> 36d3bdbe8a9dbbcc8be968461673861322e42368
   </video>
 </div>
 
