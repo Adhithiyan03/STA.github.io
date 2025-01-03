@@ -15,7 +15,7 @@ location: "University of Michigan, USA"
   <img src="{{ base_path }}/images/exp_4_0.jpg" width="500">
 </div>
 
-]<div style="text-align: center;">
+<div style="text-align: center;">
   <video controls width="500">
     <source src="/images/exp_4_1.mp4" type="video/mp4">
   </video>
