@@ -1,7 +1,6 @@
-
 ---
 permalink: /
-title: ""
+title: "You reached the beginning of the end"
 author_profile: true
 redirect_from: 
   - /about/
@@ -30,8 +29,13 @@ I’ve had the privilege of working with several leading institutions and resear
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- IIT Bombay -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iitb.png" alt="IIT Bombay" style="width: 100%; height: auto;">
-    <p>Indian Institute of Technology Bombay</p>
+    <img src="/images/iitindore.png" alt="IIT Indore" style="width: 100%; height: auto;">
+    <p>Indian Institute of Technology Indore</p>
+  </div>
+
+  <div style="width: 30%; text-align: center;">
+    <img src="/images/wpi.png" alt="WPI" style="width: 100%; height: auto;">
+    <p>Worcester Polytechnic Institute</p>
   </div>
 
   <!-- University of Michigan -->
@@ -42,20 +46,20 @@ I’ve had the privilege of working with several leading institutions and resear
 
   <!-- University of Toronto -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/uoft.png" alt="University of Toronto" style="width: 100%; height: auto;">
-    <p>University of Toronto</p>
+    <img src="/images/iisc.png" alt="IISc" style="width: 100%; height: auto;">
+    <p>Indian Institute of Science</p>
   </div>
 
   <!-- Automotive Research Center -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/arc.png" alt="ARC" style="width: 100%; height: auto;">
-    <p>Automotive Research Center</p>
+    <img src="/images/NYU.png" alt="NYU" style="width: 100%; height: auto;">
+    <p>New York University</p>
   </div>
 
   <!-- Isuzu Technical Center of America -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/isuzu.png" alt="ITCA" style="width: 100%; height: auto;">
-    <p>Isuzu Technical Center of America</p>
+    <img src="/images/magna.png" alt="Magna" style="width: 100%; height: auto;">
+    <p>Magna RnD</p>
   </div>
 
   </div>
