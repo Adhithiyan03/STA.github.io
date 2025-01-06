@@ -1,6 +1,6 @@
 ---
-title: "DRDO(Indian Defence) Inter IIT Tech Meet'23"
-excerpt: "Autonomous UGV-UAV Robot Team navigation in Hilly Terrains <br/><img src='images\image_3_0.jpg'>"
+title: "DRDO (Indian Defence) Inter IIT Tech Meet'23"
+excerpt: "Autonomous UGV-UAV Robot Team navigation in Hilly Terrains <br/><img src='images/image_3_0.jpg'>"
 collection: portfolio
 ---
 
