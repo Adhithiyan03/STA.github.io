@@ -1,6 +1,7 @@
 ---
 title: "Imitiation Learning for Robot Insertion"
-excerpt: "Robot Isertion Using Inverse Reinforcement Learning 1<br/><img src='{{ base_path }}/images/Video_1_0.jpg'>"
+<img src='{{ base_path }}/images/Video_1_0.jpg' alt="Image description" width="500">
+excerpt: "Robot Isertion Using Inverse Reinforcement Learning 1<br/>"
 collection: portfolio
 ---
 
