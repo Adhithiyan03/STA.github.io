@@ -1,7 +1,6 @@
 ---
 title: "Imitiation Learning for Robot Insertion"
-<img src='{{ base_path }}/images/Video_1_0.jpg' alt="Image description" width="500">
-excerpt: "Robot Isertion Using Inverse Reinforcement Learning 1<br/>"
+excerpt: "Robot Isertion Using Inverse Reinforcement Learning 1<br/><img src='images/500x300.png'>"
 collection: portfolio
 ---
 
@@ -18,8 +17,6 @@ This project focuses on teaching robots to perform insertion tasks through imita
 <div style="text-align: center;">
   <video controls width="500">
     <source src="/images/Video_1_2.mov" type="video/quicktime">
-    Your browser does not support the video tag.
-    <source src="{{ base_path }}/images/Video_1_2.mov" type="video/quicktime">
   </video>
 </div>
 
