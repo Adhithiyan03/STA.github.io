@@ -1,6 +1,6 @@
 ---
 title: "Imitiation Learning for Robot Insertion"
-excerpt: "Robot Isertion Using Inverse Reinforcement Learning 1<br/><img src='images/500x300.png'>"
+excerpt: "Robot Insertion Using Inverse Reinforcement Learning 1<br/><img src='images/500x300.png'>"
 collection: portfolio
 ---
 
@@ -19,4 +19,3 @@ This project focuses on teaching robots to perform insertion tasks through imita
     <source src="/images/Video_1_2.mov" type="video/quicktime">
   </video>
 </div>
-
