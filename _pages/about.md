@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "You reached the beginning of the end"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
