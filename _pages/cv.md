@@ -4,5 +4,5 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /_pages/Thanikai_CV_.pdf 
+  - /_pages/Thanikai_Resume.pdf 
 ---
