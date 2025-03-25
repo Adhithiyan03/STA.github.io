@@ -29,25 +29,25 @@ I’ve had the privilege of working with several leading institutions and resear
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- IIT Indore -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iit_indore.png" alt="IIT Indore" style="width: 100%; height: auto;">
+    <img src="/images/iit_indore.png" alt="IIT Indore" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>Indian Institute of Technology Indore</p>
   </div>
 
   <!-- WPI -->
-  <div>
-    <img src="/images/wpi.png" alt="WPI">
+  <div style="width: 30%; text-align: center;">
+    <img src="/images/wpi.png" alt="WPI" style="width: 50%; height: auto; display: block; margin: auto;">
     <p>Worcester Polytechnic Institute</p>
   </div>
 
   <!-- University of Michigan -->
-  <div style="width: 30%; text-align: center;">
-    <img src="/images/umich.png" alt="University of Michigan" style="width: 100%; height: auto;">
+  <div style="width: 10%; text-align: center;">
+    <img src="/images/umich.png" alt="University of Michigan" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>University of Michigan</p>
   </div>
 
   <!-- IISc -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iisc.png" alt="IISc" style="width: 100%; height: auto;">
+    <img src="/images/iisc.png" alt="IISc" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>Indian Institute of Science</p>
   </div>
 
@@ -66,3 +66,9 @@ I’ve had the privilege of working with several leading institutions and resear
 
 Please contact me if you want to collaborate on research projects in any related fields.
 
+<!-- <div style="text-align: center;"> -->
+  <!-- <div style="width: 400px; height: 300px; margin: auto;"> -->
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=0htbO1aW3-I8XHiS_BNNqtV-BaMFOWnlRk40-OGO_R0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+  <!-- </div> -->
+<!-- </div> -->
+<!--  -->
