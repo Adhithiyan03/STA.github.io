@@ -27,12 +27,13 @@ My areas of interest are -
 I’ve had the privilege of working with several leading institutions and research groups, where I contributed to projects in robotic learning 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- IIT Bombay -->
+  <!-- IIT Indore -->
   <div style="width: 30%; text-align: center;">
     <img src="/images/iitindore.png" alt="IIT Indore" style="width: 100%; height: auto;">
     <p>Indian Institute of Technology Indore</p>
   </div>
 
+  <!-- WPI -->
   <div style="width: 30%; text-align: center;">
     <img src="/images/wpi.png" alt="WPI" style="width: 100%; height: auto;">
     <p>Worcester Polytechnic Institute</p>
@@ -44,25 +45,24 @@ I’ve had the privilege of working with several leading institutions and resear
     <p>University of Michigan</p>
   </div>
 
-  <!-- University of Toronto -->
+  <!-- IISc -->
   <div style="width: 30%; text-align: center;">
     <img src="/images/iisc.png" alt="IISc" style="width: 100%; height: auto;">
     <p>Indian Institute of Science</p>
   </div>
 
-  <!-- Automotive Research Center -->
+  <!-- NYU -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/NYU.png" alt="NYU" style="width: 100%; height: auto;">
+    <img src="/images/nyu.png" alt="NYU" style="width: 100%; height: auto;">
     <p>New York University</p>
   </div>
 
-  <!-- Isuzu Technical Center of America -->
+  <!-- Magna -->
   <div style="width: 30%; text-align: center;">
-    <img src="\images\magna.png" alt="Magna" style="width: 100%; height: auto;">
-    <p>Magna RnD</p>
+    <img src="/images/magna.png" alt="Magna" style="width: 100%; height: auto;">
+    <p>Magna R&D</p>
   </div>
-
-  </div>
+</div>
 
 Please contact me if you want to collaborate on research projects in any related fields.
 
