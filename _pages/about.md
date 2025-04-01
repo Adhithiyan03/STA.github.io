@@ -35,12 +35,12 @@ I’ve had the privilege of working with several leading institutions and resear
 
   <!-- WPI -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/wpi.png"  style="width: 50%; height: auto; display: block; margin: auto;">
+    <img src="/images/wpi.png"  style="width: 100%; height: auto; display: block; margin: auto;">
     <p>Worcester Polytechnic Institute</p>
   </div>
 
   <!-- University of Michigan -->
-  <div style="width: 10%; text-align: center;">
+  <div style="width: 30%; text-align: center;">
     <img src="/images/umich.png" alt="University of Michigan" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>University of Michigan</p>
   </div>
