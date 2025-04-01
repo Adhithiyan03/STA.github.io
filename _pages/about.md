@@ -29,7 +29,7 @@ I’ve had the privilege of working with several leading institutions and resear
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- IIT Indore -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iitb.png" style="width: 100%; height: auto; object-fit:contain; display: block; margin: auto;">
+    <img src="/images/iitb.png" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>Indian Institute of Technology Indore</p>
   </div>
 
@@ -64,11 +64,4 @@ I’ve had the privilege of working with several leading institutions and resear
   </div>
 </div>
 
-Please contact me if you want to collaborate on research projects in any related fields.
-
-<!-- <div style="text-align: center;"> -->
-  <!-- <div style="width: 400px; height: 300px; margin: auto;"> -->
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=0htbO1aW3-I8XHiS_BNNqtV-BaMFOWnlRk40-OGO_R0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-  <!-- </div> -->
-<!-- </div> -->
-<!--  -->
+Please contact me if you want to collaborate on research projects in any related fields.g
