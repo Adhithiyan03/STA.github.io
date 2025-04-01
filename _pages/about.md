@@ -29,7 +29,7 @@ I’ve had the privilege of working with several leading institutions and resear
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- IIT Indore -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iit_indore.png" style="width: 100%; height: auto; display: block; margin: auto;">
+    <img src="/images/iit_indore.png" style="width: 100%; height: auto; object-fit:contain; display: block; margin: auto;">
     <p>Indian Institute of Technology Indore</p>
   </div>
 
