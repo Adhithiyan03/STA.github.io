@@ -1,6 +1,6 @@
 ---
 title: "Scene Understanding for Traffic Scene"
-excerpt: "Tesla Autopliot DashBoard Simulation <br/><img src='./images/Video_1_0.jpg'>"
+excerpt: "Tesla Autopliot DashBoard Simulation <br/><img src='/STA.github.io/images/Video_1_0.jpg'>"
 collection: portfolio
 ---
 

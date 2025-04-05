@@ -10,7 +10,8 @@ team to map the mountain road in the worlds using a UAV and guide a UGV through 
 area, navigating across various turns, altitudes, and depth of terrain under various
 constraints
 
-{% include base_path %}
-<div style="text-align: center;">
-  <img src="/images/image_3_1.png" width="500">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; ">
+  <div style="text-align: center;">
+    <img src="/images/image_3_1.png" width="500">
+  </div>
 </div>
