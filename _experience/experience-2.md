@@ -1,6 +1,6 @@
 ---
 title: "Causal MDP for Reminiscence Therapy using LLMs for Pepper Robot (RA-L 2024)"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='./images/500x300.png'>"
 collection: experience
 type: "Aug 2024 - Present"
 permalink: /research/robocare
@@ -12,7 +12,7 @@ location: "Worcester Polytechnic Institute, USA"
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/images/exp_2_0.mov" type="video/quicktime">
+    <source src="./images/exp_2_0.mov" type="video/quicktime">
   </video>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 title: "Needle Steering POMDP"
-excerpt: "<br/><img src='/images/500x300.jpg'>"
+excerpt: "<br/><img src='./images/500x300.jpg'>"
 collection: portfolio
 ---
 

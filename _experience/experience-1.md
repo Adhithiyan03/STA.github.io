@@ -1,6 +1,6 @@
 ---
 title: "Skill Learning for Manipulator using Residual Policies and PINNS"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='./images/500x300.png'>"
 collection: experience
 type: "Jan 2023 - Dec 2024"
 permalink: /research/elpis
@@ -11,13 +11,13 @@ location: "Worcester Polytechnic Institute, USA"
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/images/exp_1_0.webm" type="video/webm">
+    <source src="./images/exp_1_0.webm" type="video/webm">
   </video>
 </div>
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/images/exp_1_1.MP4" type="video/mp4">
+    <source src="./images/exp_1_1.MP4" type="video/mp4">
   </video>
 </div>
 
