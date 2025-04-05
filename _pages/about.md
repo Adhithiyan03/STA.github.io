@@ -26,7 +26,7 @@ My areas of interest are -
 
 I’ve had the privilege of working with several leading institutions and research groups, where I contributed to projects in robotic learning 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; ">
   <!-- IIT Indore -->
   <div style="width: 30%; text-align: center;">
     <img src="/images/iitb.png" style="width: 100%; height: auto; display: block; margin: auto;">
