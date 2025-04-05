@@ -35,31 +35,31 @@ I’ve had the privilege of working with several leading institutions and resear
 
   <!-- WPI -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/wpi.png"  style="width: 100%; height: auto; display: block; margin: auto;">
+    <img src="/images/iitb.png"  style="width: 100%; height: auto; display: block; margin: auto;">
     <p>Worcester Polytechnic Institute</p>
   </div>
 
   <!-- University of Michigan -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/umich.png" alt="University of Michigan" style="width: 100%; height: auto; display: block; margin: auto;">
+    <img src="/images/iitb.png" alt="University of Michigan" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>University of Michigan</p>
   </div>
 
   <!-- IISc -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iisc.png" alt="IISc" style="width: 100%; height: auto; display: block; margin: auto;">
+    <img src="/images/iitb.png" alt="IISc" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>Indian Institute of Science</p>
   </div>
 
   <!-- NYU -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/nyu.png" alt="NYU" style="width: 100%; height: auto;">
+    <img src="/images/iitb.png" alt="NYU" style="width: 100%; height: auto;">
     <p>New York University</p>
   </div>
 
   <!-- Magna -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/magna.png" alt="Magna" style="width: 100%; height: auto;">
+    <img src="/images/iitb.png" alt="Magna" style="width: 100%; height: auto;">
     <p>Magna R&D</p>
   </div>
 </div>
