@@ -29,25 +29,25 @@ I’ve had the privilege of working with several leading institutions and resear
 <div style="display: flex; flex-wrap: wrap; justify-content: center; ">
   <!-- IIT Indore -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iitb.png" style="width: 100%; height: auto; display: block; margin: auto;">
+    <img src="./images/iit_indore.png" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>Indian Institute of Technology Indore</p>
   </div>
 
   <!-- WPI -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iitb.png"  style="width: 100%; height: auto; display: block; margin: auto;">
+    <img src="./images/wpi.png"  style="width: 100%; height: auto; display: block; margin: auto;">
     <p>Worcester Polytechnic Institute</p>
   </div>
 
   <!-- University of Michigan -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iitb.png" style="width: 100%; height: auto; display: block; margin: auto;">
+    <img src="./images/umich.png" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>University of Michigan</p>
   </div>
 
   <!-- IISc -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iitb.png" alt="IISc" style="width: 100%; height: auto; display: block; margin: auto;">
+    <img src="./images/IISC.png" alt="IISc" style="width: 100%; height: auto; display: block; margin: auto;">
     <p>Indian Institute of Science</p>
   </div>
 
@@ -59,7 +59,7 @@ I’ve had the privilege of working with several leading institutions and resear
 
   <!-- Magna -->
   <div style="width: 30%; text-align: center;">
-    <img src="/images/iitb.png" alt="Magna" style="width: 100%; height: auto;">
+    <img src="./images/magna.png" alt="Magna" style="width: 100%; height: auto;">
     <p>Magna R&D</p>
   </div>
 </div>
