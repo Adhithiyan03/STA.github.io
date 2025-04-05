@@ -52,10 +52,10 @@ I’ve had the privilege of working with several leading institutions and resear
   </div>
 
   <!-- NYU -->
-  <div style="width: 30%; text-align: center;">
+  <!--<div style="width: 30%; text-align: center;">
     <img src="/images/iitb.png" alt="NYU" style="width: 100%; height: auto;">
     <p>New York University</p>
-  </div>
+  </div> -->
 
   <!-- Magna -->
   <div style="width: 30%; text-align: center;">
