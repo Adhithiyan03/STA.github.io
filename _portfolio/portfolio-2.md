@@ -35,12 +35,12 @@ The integrated system allows the AUV to autonomously navigate competition course
 
 
 <div style="text-align: center;">
-  <img src="/images/image_2_1.png" width="500">
+  <img src="/STA.github.io/images/image_2_1.png" width="500">
 </div>
 
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/images/video_2_1.mp4" type="video/mp4">
+    <source src="/STA.github.io/images/video_2_1.mp4" type="video/mp4">
   </video>
 </div>

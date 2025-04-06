@@ -1,6 +1,6 @@
 ---
 title: "DRDO (Indian Defence) Inter IIT Tech Meet'23"
-excerpt: "Autonomous UGV-UAV Robot Team navigation in Hilly Terrains <br/><img src='/images/image_3_0.jpg'>"
+excerpt: "Autonomous UGV-UAV Robot Team navigation in Hilly Terrains <br/><img src='/STA.github.io/images/image_3_0.jpg'>"
 collection: portfolio
 ---
 
@@ -12,6 +12,6 @@ constraints
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; ">
   <div style="text-align: center;">
-    <img src="/images/image_3_1.png" width="500">
+    <img src="/STA.github.io/images/image_3_1.png" width="500">
   </div>
 </div>

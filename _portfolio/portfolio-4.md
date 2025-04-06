@@ -11,13 +11,13 @@ Here, We try to replicate the Tesla Autopilot Dashboard from custom data recorde
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="./images/Video_1_1.mp4" type="video/mp4">
+    <source src="/STA.github.io/images/Video_1_1.mp4" type="video/mp4">
   </video>
 </div>
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="./images/Video_1_2.mp4" type="video/quicktime">
+    <source src="/STA.github.io/images/Video_1_2.mp4" type="video/quicktime">
   </video>
 </div>
 
