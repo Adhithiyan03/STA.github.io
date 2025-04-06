@@ -1,46 +1,40 @@
 ---
-title: "IEEE Singapore Autonomous Underwater Vehicle Competition"
-excerpt: "Autonomous Underwater Vehicle with Custom 5DOF Manipulator <br/><img src='/STA.github.io/images/image_2_0.jpg'>"
+title: "Scene Understanding for Traffic Scene"
+excerpt: "Tesla Autopliot DashBoard Simulation <br/><source src='/STA.github.io/images/Video_1_0.mp4'>"
 collection: portfolio
 ---
-This project involves developing an autonomous underwater vehicle (AUV) for the IEEE Singapore AUV Competition. The system integrates advanced object detection, collision avoidance, and navigation capabilities.
 
-Key Technical Components:
+Here, We try to replicate the Tesla Autopilot Dashboard from custom data recorded on the cameraw of a Tesla Car. We then use different Deep Learning and LLM models to recreate the environemnt perceived by the cameras in calibration such as the object detection, segmentation, depth estimation, object orientation, human pose estimation, etc and render it on the dashboard. We use blender to render the scene using appropriate textures and materials and scaling the scene to the correct size.
 
-Object Detection & Collision Avoidance:
-- Implemented using YOLOv5 deep learning model
-- Pre-trained on COCO128 dataset
-- Fine-tuned on custom dataset combining simulated environment data and competition footage
-- Enables real-time detection and tracking of competition elements and obstacles
+<div style="display: flex; flex-wrap: wrap; justify-content: center; ">
+  <div style="width: 30%; text-align: center;">
+    <img src="./images/image_4_1.jpg" style="width: 100%; height: auto; display: block; margin
+  </div>
 
-Navigation System:
-- Built on ROS Melodic framework for robust inter-component communication
-- Utilizes Gazebo UUV simulator for testing in virtual SAUVC arena environment
-- Implements sophisticated algorithms including:
-  - Kalman Filter-based SLAM for localization and mapping
-  - PID and LQR controllers for precise motion control
-  - Advanced motion planning for optimal trajectory generation
+  <div style="width: 30%; text-align: center;">
+    <img src="./images/image_4_2.jpg"  style="width: 100%; height: auto; display: block; margin: auto
+  </div>
 
-Electrical System:
-- Battery: 2 x LiPo (4s) 14.8 V , 10Ah
-- Nominal / Peak current drawn from battery: 98 A/170 A
-- CPU + GPU: Nvidia Jetson nano, Quad Core, 4GB RAM
-- Microcontrollers: Arduino Mega R3
-- DC/DC converter for voltage step up to 16v, step down to 12v and 5v
-- Sensors for Navigation: Sensor fusion of Inertial Measurement Unit (IMU) and Doppler Velocity log (DVL), and Depth Sensor.
-- Leak Detection using Water detection module and Air pressure sensor module
-- Relays 12v/5v and fuses for protection of components
+  <div style="width: 30%; text-align: center;">
+    <img src="./images/image_4_3.jpg" style="width: 100%; height: auto; display: block; margin: aut
+  </div>
 
-The integrated system allows the AUV to autonomously navigate competition courses while detecting and interacting with various underwater elements. Testing and validation were performed extensively in both simulated and real-world environments.
+  <div style="width: 30%; text-align: center;">
+    <img src="./images/image_4_4.jpg" style="width: 100%; height: auto; display: block; m
+  </div>
 
 
-<div style="text-align: center;">
-  <img src="/STA.github.io/images/image_2_1.png" width="500">
+  <div style="width: 30%; text-align: center;">
+    <img src="/images/image_4_5.jpg" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="width: 30%; text-align: center;">
+    <img src="./images/image_4_6.jpg"  style="width: 100%; height: auto;">
+  </div>
+
+  <div style="width: 30%; text-align: center;">
+    <img src="./images/image_4_7.jpg" style="width: 100%; height: auto;">
+  </div>
 </div>
 
-
-<div style="text-align: center;">
-  <video controls width="500">
-    <source src="/STA.github.io/images/video_2_1.mp4" type="video/mp4">
-  </video>
-</div>
+Please contact me if you want to collaborate on research projects in any related fields.g
