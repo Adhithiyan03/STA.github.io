@@ -25,12 +25,12 @@ We propose networks trained on synthetic data to estimate odometry given the vis
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/STA.github.io/images/imag_6_2.png" width="500">
+    <source src="/STA.github.io/images/image_6_2.png" width="500">
   </video>
 </div>
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/STA.github.io/images/imag_6_3.png" width="500">
+    <source src="/STA.github.io/images/image_6_3.png" width="500">
   </video>
 </div>

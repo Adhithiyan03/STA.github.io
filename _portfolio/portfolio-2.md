@@ -8,32 +8,32 @@ Here, We try to replicate the Tesla Autopilot Dashboard from custom data recorde
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; ">
   <div style="width: 30%; text-align: center;">
-    <img src="./images/image_4_1.jpg" style="width: 100%; height: auto; display: block; margin
+    <img src="/STA.github.io/images/image_4_1.jpg" style="width: 100%; height: auto; display: block; margin: auto;" >
   </div>
 
   <div style="width: 30%; text-align: center;">
-    <img src="./images/image_4_2.jpg"  style="width: 100%; height: auto; display: block; margin: auto
+    <img src="/STA.github.io/images/image_4_2.jpg"  style="width: 100%; height: auto; display: block; margin: auto;">
   </div>
 
   <div style="width: 30%; text-align: center;">
-    <img src="./images/image_4_3.jpg" style="width: 100%; height: auto; display: block; margin: aut
+    <img src="/STA.github.io/images/image_4_3.jpg" style="width: 100%; height: auto; display: block; margin: auto;">
   </div>
 
   <div style="width: 30%; text-align: center;">
-    <img src="./images/image_4_4.jpg" style="width: 100%; height: auto; display: block; m
+    <img src="/STA.github.io/images/image_4_4.jpg" style="width: 100%; height: auto; display: block; margin: auto;">
   </div>
 
 
   <div style="width: 30%; text-align: center;">
-    <img src="/images/image_4_5.jpg" style="width: 100%; height: auto;">
+    <img src="/STA.github.io/images/image_4_5.jpg" style="width: 100%; height: auto;">
   </div>
 
   <div style="width: 30%; text-align: center;">
-    <img src="./images/image_4_6.jpg"  style="width: 100%; height: auto;">
+    <img src="/STA.github.io/images/image_4_6.jpg"  style="width: 100%; height: auto;">
   </div>
 
   <div style="width: 30%; text-align: center;">
-    <img src="./images/image_4_7.jpg" style="width: 100%; height: auto;">
+    <img src="/STA.github.io/images/image_4_7.jpg" style="width: 100%; height: auto;">
   </div>
 </div>
 
