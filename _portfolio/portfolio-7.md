@@ -2,7 +2,7 @@
 title: "Needle Steering POMDP"
 excerpt: |
   POMDP with DESPOT and POMCP <br/>
-  <videowidth="500" height="300" controls>
+  <video width="500" height="300" controls>
     <source src="/STA.github.io/images/Video_5_0.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>

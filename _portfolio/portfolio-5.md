@@ -2,7 +2,7 @@
 title: "IEEE Singapore Autonomous Underwater Vehicle Competition"
 excerpt: |
   Autonomous Underwater Vehicle with Custom 5DOF Manipulator <br/>
-  <videowidth="500" height="300" controls>
+  <video width="500" height="300" controls>
     <source src="/STA.github.io/images/video_2_1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>

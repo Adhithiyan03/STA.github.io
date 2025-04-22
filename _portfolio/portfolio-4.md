@@ -2,7 +2,7 @@
 title: "Human-Robot Collaborative Control for Robotic Manipulation" 
 excerpt: |
   Comparing AR VR and Speech Interfaces for Robot Pick and Place tasks <br/>
-  <videowidth="500" height="300" controls>
+  <video width="500" height="300" controls>
     <source src="/STA.github.io/images/Video_3_0.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
