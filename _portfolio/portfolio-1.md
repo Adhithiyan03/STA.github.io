@@ -3,7 +3,7 @@ title: "Imitation Learning for Robot Insertion"
 excerpt: |
   Robot Insertion Using Inverse Reinforcement Learning <br/>
   <video width="100%" controls>
-    <source src="/STA.github.io/videos/Video_1_1.mp4" type="video/mp4">
+    <source src="/STA.github.io/images/Video_1_1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 collection: portfolio
