@@ -1,36 +1,33 @@
 ---
-title: "Visual Inertial Odometry with Multi-Constraint EKF and Unsupervised Learning Approaches"
-excerpt: "Use of IMU and RGB Camera for optimal estimation of relative postion of AV <br/><img src='/STA.github.io/images/image_6_0.jpg'>"  
+title: "Human-Robot Collaborative Control for Robotic Manipulation"
+excerpt: "Comparing AR VR and Speech Interfaces for Robot Pick and Place tasks <br/><img src='/STA.github.io/images/image_33_1.jpg'>"  
 collection: portfolio
 ---
+Research Questions
+Is VR/Verbal interface better than traditional KBM interface?
+Can we actually use this study to make interfaces that fit how users naturally express themselves?
+Scope
+Collaborative Human-Robot Control
+Robotic Manipulation / Pick-Placing
+Concept
+Comparing 3 Approaches
+Computer-based (KBM), Virtual Reality (VR), Voice Activation (VO)
+User Study
+Categorizing interface elements based on perceived behaviors
 
-In this report, network architectures and loss functions are proposed that is used to estimate odometry/ relative pose between scenes using IMU (Inertial measurement unit) readings and camera frames. The process used to generate synthetic data for training and testing of these models is discussed along with recorded results
 
-Multi-Constraint Kalman Filter - means of solving the VIO (Visual-Inertial Odometry) problem
-  Satisfactory results - RMSE ATE between ground truth and estimates
-  heavy dependency on feature detection and tracking
-
-Can we use deep feature tracking? Pretty straightforward for visual but for IMU data?
-
-Scarcity in deep learning methods in literature for VIO
-We propose networks trained on synthetic data to estimate odometry given the visual and inertial data
-
+Robot control interfaces are of paramount importance for human-robot collaboration, as they facilitate the expression of human intent to the robot. The interaction is influenced by the characteristics of each input device and method. This project examines various input interfaces that accelerate human-robot communication for specific applications and evaluates the results of a user study completed with these interfaces. The aim is to
+better comprehend the systemic consequences of these interfaces and to provide a trustworthy foundation for designing more user friendly systems.
 
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/STA.github.io/images/image_6_1.jpg" width="500">
+    <source src="/STA.github.io/images/video_3_0.mp4" type="video/mp4">
   </video>
 </div>
 
 <div style="text-align: center;">
   <video controls width="500">
-    <source src="/STA.github.io/images/imag_6_2.png" width="500">
-  </video>
-</div>
-
-<div style="text-align: center;">
-  <video controls width="500">
-    <source src="/STA.github.io/images/imag_6_3.png" width="500">
+    <source src="/STA.github.io/images/video_3_1.mp4" type="video/mp4">
   </video>
 </div>

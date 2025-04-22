@@ -1,6 +1,11 @@
 ---
 title: "Imitiation Learning for Robot Insertion"
-excerpt: "Robot Insertion Using Inverse Reinforcement Learning <br/><img src='/STA.github.io/images/Video_1_0.jpg'>"  
+excerpt: "Robot Insertion Using Inverse Reinforcement Learning <br/>
+<div style="text-align: center;">
+  <video controls width="500">
+    <source src="/STA.github.io/images/Video_1_1.mp4" type="video/mp4"
+  </video>
+</div>"  
 collection: portfolio
 ---
 
