@@ -1,6 +1,11 @@
 ---
 title: "Scene Understanding for Traffic Scene"
-excerpt: "Tesla Autopliot DashBoard Simulation <br/><source src='/STA.github.io/images/Video_1_0.mp4'>"
+excerpt: |
+  Tesla Autopliot DashBoard Simulation<br/>
+  <videowidth="500" height="300" controls>
+    <source src="/STA.github.io/images/Video_4_0.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 collection: portfolio
 ---
 
