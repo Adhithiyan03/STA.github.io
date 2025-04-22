@@ -1,6 +1,6 @@
 ---
 title: "Sim2Real Transfer of Manipulator Tasks using Diffusion Models and ACTs"
-excerpt: "<br/><img src='./images/500x300.png'>"
+excerpt: "<br/><img src='/STA.github.io/images/500x300.png'>"
 collection: experience
 type: "Jan 2023 - Dec 2024"
 # This permalink is a unique identifier for a webpage, in this case, it seems to be incorrectly set to '/research/quantum-annealing' 
