@@ -3,7 +3,7 @@ title: "Scene Understanding for Traffic Scene"
 excerpt: |
   Tesla Autopliot DashBoard Simulation<br/>
   <video width="500" height="300" controls>
-    <source src="/STA.github.io/images/Video_4_0.mp4" type="video/mp4">
+    <source src="/STA.github.io/images/video_4_0.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 collection: portfolio
